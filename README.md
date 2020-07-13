@@ -1,4 +1,4 @@
-# GA-Data-Science-Projects
+# General Assembly Data Science Projects
 Projects from General Assembly's Data Science Fundamentals Course
 
 1. **Python Code Challenges:** Introductory Python exercises
